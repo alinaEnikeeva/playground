@@ -1,29 +1,40 @@
-<div align="right">
-Julia Haus  
-(323) 306-5750 telephone (direct)  
-jhaus@lfecr.com  
+<div align = "right">
+
+Julia Haus
+
+(323) 306-5750 telephone (direct)
+
+jhaus@lfecr.com
+
 </div>
 
-4100 West Alameda Avenue, Third Floor  
-Burbank, California 91505  
-(323) 375-5101 telephone (general) | (323) 306-5571 facsimile  
-www.LawyersForEmployeeAndConsumerRights.com  
+4100 West Alameda Avenue, Third Floor, Burbank, California 91505
 
-<div align="center">
-**Confidential Settlement Communication**  
-**(Cal. Evid. Code § 1152)**  
+(323) 375-5101 telephone (general) | (323) 306-5571 facsimile
+
+www.LawyersForEmployeeAndConsumerRights.com
+
+<div align = "center">
+
+**Confidential Settlement Communication**
+
+**(Cal. Evid. Code § 1152)**
+
 </div>
 
-July 05, 2024  
+July 05, 2024
 
-<ins>**VIA FIRST CLASS MAIL AND/OR ELECTRONIC MAIL**</ins>  
+<ins>**VIA FIRST CLASS MAIL AND/OR ELECTRONIC MAIL**</ins>
 
-Crazy Zoo Service  
-Attn: Human Resources/Legal Department  
-876 W Maymonth Rd Ste 8  
-Ontario, CA 91761  
+Crazy Zoo Service
 
-**Subject: Bunny Pigeon Seed vs. Crazy Zoo Service**  
+Attn: Human Resources/Legal Department
+
+876 W Maymonth Rd Ste 8
+
+Ontario, CA 91761
+
+**Subject: Bunny Pigeon Seed vs. Crazy Zoo Service**
 
 Dear Gentleperson,
 
