@@ -118,7 +118,7 @@ As set forth above, Acme Manufacturing Co. faces substantial liability for the v
 Our goal is to arrive at a fair and reasonable resolution to this dispute with as little time, energy and cost expended by the parties as possible. In our experience, a settlement can often be achieved for less than the expected cost of defense. To this end, our client is willing to settle all claims at this time for a total of **$169,630.00**. This demand is made in an effort to resolve the matter efficiently and in good faith. With this letter, I have also enclosed a draft settlement agreement for your consideration. Please note should the matter not settle and proceed to litigation and/or arbitration, any and all pre-litigation demands will be immediately withdrawn as our client pursues all available rights and remedies.
 
 This settlement offer will remain open until close of business ten (10) calendar days from the date of this letter.
-```Please contact me to discuss this matter further. My direct dial is (302 306-5750) and my email address is jhaus@lfecr.com.
+Please contact me to discuss this matter further. My direct dial is (302 306-5750) and my email address is jhaus@lfecr.com.
 
 Sincerely, 
 
