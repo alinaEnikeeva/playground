@@ -17,7 +17,7 @@ www.LawyersForEmployeeAndConsumerRights.com
 
 July 05, 2024  
 
-<u>**VIA FIRST CLASS MAIL AND/OR ELECTRONIC MAIL**</u>  
+<ins>**VIA FIRST CLASS MAIL AND/OR ELECTRONIC MAIL**</ins>  
 
 Crazy Zoo Service  
 Attn: Human Resources/Legal Department  
