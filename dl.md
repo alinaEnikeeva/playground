@@ -60,7 +60,7 @@ May 9, 2023
 
 ---
 
-### **Wrongful Termination**
+### <ins>Wrongful Termination</ins>
 
 In California, employment is generally "at will." *See Cal. Lab. Code § 2922*. However, the "at will" relationship can be expressly or impliedly modified by the employer, such as if the employer provides oral assurances of continued employment, which may require the employer to establish "good cause" prior to terminating the employee. *See Cotran v. Rollins Hudig Hall Int'l, Inc., 17 Cal.4th 93, 108 (1998)*. An employer's general right to terminate an "at-will" employee is “subject to limits imposed by public policy.” *Collier v. Superior Court, 228 Cal.App.3d 1117, 1121 (1991)*, citing *Foley v. Interactive Data Corp., 47 Cal.3d 654, 655 (1988) (wrongful termination in violation of public policy)*. *See also Turner v. Anheuser Busch, Inc., 7 Cal.4th 1238 (1994) (wrongful constructive termination)*.
 
@@ -70,7 +70,7 @@ Also, *Labor Code Section 98.6(a)* provides in pertinent part, “A person shall
 
 Furthermore, “constructive discharge occurs when the employer’s conduct effectively forces an employee to resign. Although the employee may say, ‘I quit,’ the employment relationship is actually severed involuntarily by the employer’s acts, against the employee’s will. As a result, a constructive discharge is legally regarded as a firing rather than a resignation.” *(Turner v. Anheuser-Busch, Inc. (1994) 7 Cal.4th 1238, 1244–1245 [32 Cal.Rptr.2d 223, 876 P.2d 1022], internal citation omitted.)*.
 
-California also prohibits retaliating against an employee for opposing the violation of law. *See Cal. Lab. Code § 1102.5 (c)* (“An employer, or any person acting on behalf of the employer, shall not retaliate against an employee for refusing to participate in an activity that would result in a violation of state or federal statute, or a violation of or noncompliance with a local, state, or federal rule or regulation.”).
+California also prohibits retaliating against an employee for opposing the violation of law. *See Cal. Lab. Code § 1102.5 (c) (“An employer, or any person acting on behalf of the employer, shall not retaliate against an employee for refusing to participate in an activity that would result in a violation of state or federal statute, or a violation of or noncompliance with a local, state, or federal rule or regulation.”)*.
 
 In the case of Bunny Pigeon Seed, the client was terminated shortly after being involved in a workplace accident on January 18, 2023, while performing her duties as a Recovery Agent for Crazy Zoo Service. The accident occurred around 11:30 p.m. when Bunny was hit by a car doing donuts in the intersection. Following the accident, Bunny reported the incident to her supervisor, Foxy Wolf, who instructed her to go to the hospital. Bunny was taken by ambulance and remained in the hospital from midnight to 5 a.m. During this time, Foxy Wolf contacted Bunny's wife, Mouse Seed, to check on Bunny's condition and to fill out an accident report.
 
@@ -80,7 +80,7 @@ This termination appears to be in violation of California's public policy, as it
 
 Given these circumstances, Bunny Pigeon Seed has a strong claim for wrongful termination against Crazy Zoo Service. The termination not only violates fundamental public policy but also appears to be retaliatory in nature, which is condemned by public policy and California labor laws.
 
-### **FEHA**
+### <ins>FEHA</ins>
 
 The Fair Employment and Housing Act, in addition to preventing discrimination, harassment, and retaliation, also shows California’s strong public policy against such acts. California courts have made it clear that bringing an action under the FEHA does not foreclose bringing an action under the common law based on the same facts; the FEHA and common law actions are complementary, not mutually exclusive. *Rojo v Kliger, 52 Cal.3d 65, 73, 82, 89 [holding that the FEHA does not displace any causes of action and remedies that are otherwise available to plaintiffs]*.
 
@@ -92,11 +92,11 @@ Additionally, Bunny's supervisor, Foxy Wolf, was aware of her condition and the 
 
 Given these facts, Bunny Pigeon Seed has a strong case for a FEHA claim against Crazy Zoo Service. The company's actions not only violate FEHA but also go against California's public policy of protecting employees from discrimination and retaliation based on disability. Bunny is entitled to pursue both FEHA and common law actions to seek justice and appropriate remedies for the wrongful termination and discrimination she experienced.
 
-### **On-the-Job Injury**
+### <ins>On-the-Job Injury</ins>
 
 Moreover, be advised that *Labor Code Section 132a* strictly prohibits an employer’s “discrimination against workers who are injured in the course and scope of their employment.” Also, *Labor Code Section 4553* provides in pertinent part, “The amount of compensation otherwise recoverable shall be increased one-half…where employee is injured by reason of the serious and willful misconduct…of…the employer…” And *Labor Code Section 3202* imposes a policy of liberal construction in favor of protecting persons injured in the course of their employment.
 
-#### **Explanation**
+#### Explanation
 
 The client, Bunny Pigeon Seed, was involved in a vehicle accident while on duty as a Recovery Agent for Crazy Zoo Service. This accident occurred on January 18, 2023, at approximately 11:30 p.m. while Bunny was performing her job responsibilities, which include recovering assets and repossessing vehicles. Bunny was hit by a car doing donuts in the intersection while driving a company car. The company has cameras in the vehicle that captured the incident.
 
@@ -108,7 +108,7 @@ Given these circumstances, Bunny's termination appears to be a violation of *Lab
 
 In summary, Bunny Pigeon Seed's on-the-job injury and subsequent termination by Crazy Zoo Service present a strong case for violation of multiple labor codes designed to protect injured workers. The legal justifications provided by these labor codes support Bunny's claim for increased compensation and protection against discriminatory termination practices.
 
-### **Unpaid Wages Complaint**
+### <ins>Unpaid Wages Complaint</ins>
 
 The prompt payment of wages due an employee is a fundamental public policy of California. *Gould v. Maryland Sound Industries, Inc. (1995) 31 Cal.App.4th 1137, 1147*. “Because of the economic position of the average worker and, in particular, his dependence on wages for the necessities of life for himself and his family, it is essential to the public welfare that he receive his pay promptly.” *Pressler v. Donald L. Bren Co. (1982) 32 Cal.3d 831, 837*.
 
@@ -126,7 +126,7 @@ Furthermore, the matter analysis indicates that Bunny Pigeon Seed did not receiv
 
 In conclusion, Crazy Zoo Service has failed to comply with the fundamental public policy of California regarding the prompt payment of wages. Bunny Pigeon Seed is entitled to $144.00 in unpaid wages, and this demand seeks immediate payment of the owed amount to rectify the situation.
 
-### **Failure to Pay Wages Owed**
+### <ins>Failure to Pay Wages Owed</ins>
 
 The prompt payment of wages due to an employee is a fundamental public policy of California. *See Gould v. Maryland Sound Industries, Inc. 31 Cal.App.4th 1137,1147 (1995) and Cal. Lab. Code § 203*. ‘[Wages] are not ordinary debts . . . . [Because] of the economic position of the average worker and, in particular, his dependence on wages for the necessities of life for himself and his family, it is essential to the public welfare that he receive his pay’ promptly. *See Pressler v. Donald L. Bren Co. (1982) 32 Cal.3d 831, 837*.
 
@@ -138,7 +138,7 @@ In this case, Crazy Zoo Service failed to pay Bunny Pigeon Seed all wages due, a
 
 Therefore, Bunny Pigeon Seed is owed at least $144.00 in wages unlawfully unpaid exclusive of interest thereon and attorney’s fees and costs. This failure to pay wages promptly is a clear violation of California labor laws, and Bunny Pigeon Seed is entitled to recover these unpaid wages along with any applicable penalties under PAGA.
 
-### **Unreimbursed Business Expenses**
+### <ins>Unreimbursed Business Expenses</ins>
 
 California Labor Code section 2802 requires that:
 
@@ -154,7 +154,7 @@ However, Crazy Zoo Service failed to reimburse her for these necessary expenditu
 
 In summary, Crazy Zoo Service is legally obligated under California Labor Code section 2802 to reimburse Bunny Pigeon Seed for these necessary business expenses incurred during her employment. Failure to do so has resulted in a significant financial burden on Bunny Pigeon Seed, for which she seeks full reimbursement.
 
-### **Late Paycheck Violations**
+### <ins>Late Paycheck Violations</ins>
 
 It has long been recognized that it is essential to the public welfare that employees receive their pay when it is due. *In re Trombley (1948) 31 Cal. 2d 801, 809*. *California Labor Code Section 204* also sets forth important public policy objectives underlying every employer’s wage payment timing obligations.
 
@@ -164,7 +164,7 @@ Also, per *California Labor Code Section 210(a)* every person who fails to pay t
 
 Crazy Zoo Service paid Bunny Seed’s final paycheck 10 days late. Therefore, Bunny Seed is entitled to $[Amount] in late paycheck violations. [($100.00 + ($200.00 x [Number of Pay Periods]) + ($18.00/hr. x 40 hours/week x 2 weeks x 25% x [Number of Pay Periods])].
 
-#### **Explanation**
+#### Explanation
 
 In this specific case, Bunny Seed, who was employed as a Recovery Agent by Crazy Zoo Service, experienced a delay in receiving her final paycheck. According to the client data, Bunny Seed's employment ended on January 18, 2023, but her final paycheck was received 10 days late. This delay constitutes a violation of *California Labor Code Section 204*, which mandates timely payment of wages.
 
@@ -176,5 +176,4 @@ Based on the provided information, Bunny Seed's hourly rate was $18.00, and she 
 
 Calculating the total amount:
 - Initial violation: $100.00
-- Subsequent violation: $200.00 x 1 = $200.00
-- Additional penalty: $18.00/hr x 40 hours/week x 2 weeks x 25% x
+- Subsequent violation: $200.00 x 1 = $200
