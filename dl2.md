@@ -41,7 +41,6 @@ Wiley Coyote retained us to represent him on the following claims against Acme M
 - **Whistleblower Violation**: Mr. Coyote reported theft and insubordination, and subsequently faced termination, which could be seen as retaliation for whistleblowing.
 
 *Wiley Coyote's claims also give rise to attorney's fees pursuant to California's fee-shifting statutes, and potential exposure for representative damages and civil penalties. Thus, should this matter not settle then Acme Manufacturing Co's liability and exposure will be substantial.*
-```
 
 <ins> **Wrongful Termination** </ins>
 
