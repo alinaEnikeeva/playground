@@ -12,9 +12,9 @@ jhaus@lfecr.com
 (323) 375-5101 telephone (general) | (323) 306-5571 facsimile  
 www.LawyersForEmployeeAndConsumerRights.com
 
-<div align = "center">
+:-**Confidential Settlement Communication**
 
-**Confidential Settlement Communication**
+
 
 **(Cal. Evid. Code § 1152)**
 
