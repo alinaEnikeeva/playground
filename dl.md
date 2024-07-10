@@ -1,6 +1,6 @@
 <div align = "right">
 Julia Haus  
-(323) 306-5750 telephone (direct)  
+(323) 306-5750  
 jhaus@lfecr.com  
 </div>
 
@@ -11,12 +11,12 @@ www.LawyersForEmployeeAndConsumerRights.com
 
 <div align = "center">
 **Confidential Settlement Communication**  
-*(Cal. Evid. Code § 1152)*  
+**Cal. Evid. Code § 1152**  
 </div>
 
 July 05, 2024  
 
-__**VIA FIRST CLASS MAIL AND/OR ELECTRONIC MAIL**__  
+_**VIA FIRST CLASS MAIL AND/OR ELECTRONIC MAIL**_ 
 
 Crazy Zoo Service  
 Attn: Human Resources/Legal Department  
