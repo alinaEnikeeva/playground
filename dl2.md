@@ -1,4 +1,3 @@
-```markdown
 <div align = "right">
 
 Julia Haus
