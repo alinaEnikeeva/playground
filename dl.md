@@ -42,9 +42,6 @@ Wiley Coyote retained us to represent him on the following claims against Acme M
 - **Whistleblower Violation**: Mr. Coyote reported theft and insubordination, which are violations of state laws, and faced retaliation, including termination. This is a potential whistleblower violation.
 
 Wiley Coyote's claims also give rise to attorney's fees pursuant to California's fee-shifting statutes, and potential exposure for representative damages and civil penalties. Thus, should this matter not settle then Acme Manufacturing Co's liability and exposure will be substantial.
-Wiley Coyote was terminated after reporting theft and insubordination at work. This could be considered wrongful termination in violation of public policy, as it appears to be retaliation for whistleblowing.: Wrongful Termination
-Meal Period and Rest Break Violations: Wiley Coyote missed meal breaks 4 times a week and rest breaks twice a week due to supervising duties. This is a violation of California labor laws regarding meal and rest breaks.
-Whistleblower Violation: Wiley Coyote reported theft and insubordination, which are violations of state laws, and faced retaliation, including termination. This is a potential whistleblower violation.
 
 <ins> **Wrongful Termination** </ins>
 
