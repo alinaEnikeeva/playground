@@ -10,13 +10,14 @@ Burbank, California 91505
 www.LawyersForEmployeeAndConsumerRights.com  
 
 <div align = "center">
+  
 **Confidential Settlement Communication**  
 **Cal. Evid. Code § 1152**  
 </div>
 
 July 05, 2024  
 
-_**VIA FIRST CLASS MAIL AND/OR ELECTRONIC MAIL**_ 
+__**VIA FIRST CLASS MAIL AND/OR ELECTRONIC MAIL**__ 
 
 Crazy Zoo Service  
 Attn: Human Resources/Legal Department  
