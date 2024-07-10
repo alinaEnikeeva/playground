@@ -54,21 +54,15 @@ Bunny Pigeon Seed retained us to represent her on the following claims against C
 - **Waiting Time Penalties**: Ms. Seed experienced a delay in receiving the final paycheck, which may entitle her to waiting time penalties.
 - **Rest Break**: Ms. Seed reported not taking rest breaks as it was not part of the employer's practice, which is a violation of rest break laws.
 
-  *Re: Bunny Pigeon Seed v. Crazy Zoo Service*
+ *Re: Bunny Pigeon Seed v. Crazy Zoo Service*
 
-*May 9, 2023*
-
----
-
-### Page 2 of 9
+May 9, 2023
 
 ---
 
-### Detailed Explanation of Claims
+### **Wrongful Termination**
 
-**_Wrongful Termination_**
-
-In California, employment is generally "at will." *See Cal. Lab. Code § 2922*. However, the "at will" relationship can be expressly or impliedly modified by the employer, such as if the employer provides oral assurances of continued employment, which may require the employer to establish "good cause" prior to terminating the employee. *See Cotran v. Rollins Hudig Hall Int'l, Inc., 17 Cal.4th 93, 108 (1998)*. An employer's general right to terminate an "at-will" employee is “subject to limits imposed by public policy.” *Collier v. Superior Court, 228 Cal.App.3d 1117, 1121 (1991)*, citing *Foley v. Interactive Data Corp., 47 Cal.3d 654, 655 (1988) (wrongful termination in violation of public policy)*. See also *Turner v. Anheuser Busch, Inc., 7 Cal.4th 1238 (1994) (wrongful constructive termination)*.
+In California, employment is generally "at will." *See Cal. Lab. Code § 2922*. However, the "at will" relationship can be expressly or impliedly modified by the employer, such as if the employer provides oral assurances of continued employment, which may require the employer to establish "good cause" prior to terminating the employee. *See Cotran v. Rollins Hudig Hall Int'l, Inc., 17 Cal.4th 93, 108 (1998)*. An employer's general right to terminate an "at-will" employee is “subject to limits imposed by public policy.” *Collier v. Superior Court, 228 Cal.App.3d 1117, 1121 (1991)*, citing *Foley v. Interactive Data Corp., 47 Cal.3d 654, 655 (1988) (wrongful termination in violation of public policy)*. *See also Turner v. Anheuser Busch, Inc., 7 Cal.4th 1238 (1994) (wrongful constructive termination)*.
 
 An employer's termination of an employee that violates a fundamental public policy, and where the termination is “something that public policy would condemn" creates a claim for wrongful termination. *Gantt v. Sentry Insurance, 1 Cal.4th 1083, 1090 (1992); Green v. Ralee Engineering Co. 19 Cal.4th 66, 79-80 (1998) (same); See also, Labor Code Section 98.6(a)*.
 
@@ -86,7 +80,7 @@ This termination appears to be in violation of California's public policy, as it
 
 Given these circumstances, Bunny Pigeon Seed has a strong claim for wrongful termination against Crazy Zoo Service. The termination not only violates fundamental public policy but also appears to be retaliatory in nature, which is condemned by public policy and California labor laws.
 
-**_FEHA_**
+### **FEHA**
 
 The Fair Employment and Housing Act, in addition to preventing discrimination, harassment, and retaliation, also shows California’s strong public policy against such acts. California courts have made it clear that bringing an action under the FEHA does not foreclose bringing an action under the common law based on the same facts; the FEHA and common law actions are complementary, not mutually exclusive. *Rojo v Kliger, 52 Cal.3d 65, 73, 82, 89 [holding that the FEHA does not displace any causes of action and remedies that are otherwise available to plaintiffs]*.
 
@@ -98,11 +92,11 @@ Additionally, Bunny's supervisor, Foxy Wolf, was aware of her condition and the 
 
 Given these facts, Bunny Pigeon Seed has a strong case for a FEHA claim against Crazy Zoo Service. The company's actions not only violate FEHA but also go against California's public policy of protecting employees from discrimination and retaliation based on disability. Bunny is entitled to pursue both FEHA and common law actions to seek justice and appropriate remedies for the wrongful termination and discrimination she experienced.
 
-**_On-the-Job Injury_**
+### **On-the-Job Injury**
 
 Moreover, be advised that *Labor Code Section 132a* strictly prohibits an employer’s “discrimination against workers who are injured in the course and scope of their employment.” Also, *Labor Code Section 4553* provides in pertinent part, “The amount of compensation otherwise recoverable shall be increased one-half…where employee is injured by reason of the serious and willful misconduct…of…the employer…” And *Labor Code Section 3202* imposes a policy of liberal construction in favor of protecting persons injured in the course of their employment.
 
-**Explanation**
+#### **Explanation**
 
 The client, Bunny Pigeon Seed, was involved in a vehicle accident while on duty as a Recovery Agent for Crazy Zoo Service. This accident occurred on January 18, 2023, at approximately 11:30 p.m. while Bunny was performing her job responsibilities, which include recovering assets and repossessing vehicles. Bunny was hit by a car doing donuts in the intersection while driving a company car. The company has cameras in the vehicle that captured the incident.
 
@@ -114,7 +108,7 @@ Given these circumstances, Bunny's termination appears to be a violation of *Lab
 
 In summary, Bunny Pigeon Seed's on-the-job injury and subsequent termination by Crazy Zoo Service present a strong case for violation of multiple labor codes designed to protect injured workers. The legal justifications provided by these labor codes support Bunny's claim for increased compensation and protection against discriminatory termination practices.
 
-**_Unpaid Wages Complaint_**
+### **Unpaid Wages Complaint**
 
 The prompt payment of wages due an employee is a fundamental public policy of California. *Gould v. Maryland Sound Industries, Inc. (1995) 31 Cal.App.4th 1137, 1147*. “Because of the economic position of the average worker and, in particular, his dependence on wages for the necessities of life for himself and his family, it is essential to the public welfare that he receive his pay promptly.” *Pressler v. Donald L. Bren Co. (1982) 32 Cal.3d 831, 837*.
 
@@ -123,14 +117,16 @@ In the case of Bunny Pigeon Seed, an employee of Crazy Zoo Service, there is a c
 According to the client data and matter analysis, Bunny Pigeon Seed reported not knowing if overtime was paid and mentioned 8 hours of unpaid wages. This raises concerns about potential unpaid wages, which is a violation of California's labor laws. The client’s final paycheck was received, but it did not include payment for 8 hours of work.
 
 Given the hourly rate of $18.00, the calculation for the unpaid wages is as follows:
+
 \[ 8 \text{ hours} \times \$18.00/\text{hour} = \$144.00 \]
+
 Therefore, Bunny Pigeon Seed is owed $144.00 in unpaid wages. This amount is critical for her, considering her dependence on wages for the necessities of life for herself and her family, as emphasized in the *Pressler* case.
 
 Furthermore, the matter analysis indicates that Bunny Pigeon Seed did not receive rest breaks, which is another violation of California labor laws. The violations occurred 5 times per week, and given the duration of her employment, this adds up to a significant number of missed rest breaks. However, the primary focus of this claim is the unpaid wages.
 
 In conclusion, Crazy Zoo Service has failed to comply with the fundamental public policy of California regarding the prompt payment of wages. Bunny Pigeon Seed is entitled to $144.00 in unpaid wages, and this demand seeks immediate payment of the owed amount to rectify the situation.
 
-**_Failure to Pay Wages Owed_**
+### **Failure to Pay Wages Owed**
 
 The prompt payment of wages due to an employee is a fundamental public policy of California. *See Gould v. Maryland Sound Industries, Inc. 31 Cal.App.4th 1137,1147 (1995) and Cal. Lab. Code § 203*. ‘[Wages] are not ordinary debts . . . . [Because] of the economic position of the average worker and, in particular, his dependence on wages for the necessities of life for himself and his family, it is essential to the public welfare that he receive his pay’ promptly. *See Pressler v. Donald L. Bren Co. (1982) 32 Cal.3d 831, 837*.
 
@@ -142,9 +138,10 @@ In this case, Crazy Zoo Service failed to pay Bunny Pigeon Seed all wages due, a
 
 Therefore, Bunny Pigeon Seed is owed at least $144.00 in wages unlawfully unpaid exclusive of interest thereon and attorney’s fees and costs. This failure to pay wages promptly is a clear violation of California labor laws, and Bunny Pigeon Seed is entitled to recover these unpaid wages along with any applicable penalties under PAGA.
 
-**_Unreimbursed Business Expenses_**
+### **Unreimbursed Business Expenses**
 
 California Labor Code section 2802 requires that:
+
 An employer shall indemnify his or her employee for all necessary expenditures and losses incurred by the employee in direct consequence of the discharge of his or her duties. Necessary expenditures or losses include all reasonable costs, including but not limited to, attorney’s fees incurred by the employee enforcing the rights granted by this section.
 
 Bunny Pigeon Seed incurred expenses in direct consequence of the discharge of her duties as a Recovery Agent at Crazy Zoo Service. Specifically, she was required to use her personal vehicle to drive approximately 200 miles per week for work purposes. According to the IRS mileage rate of $0.58 per mile, this amounts to $116.00 per week in vehicle expenses. Over the course of her employment from April 18, 2022, to January 18, 2023, which is approximately 39 weeks, this totals $4,524.00 in vehicle expenses.
@@ -157,7 +154,7 @@ However, Crazy Zoo Service failed to reimburse her for these necessary expenditu
 
 In summary, Crazy Zoo Service is legally obligated under California Labor Code section 2802 to reimburse Bunny Pigeon Seed for these necessary business expenses incurred during her employment. Failure to do so has resulted in a significant financial burden on Bunny Pigeon Seed, for which she seeks full reimbursement.
 
-**_Late Paycheck Violations_**
+### **Late Paycheck Violations**
 
 It has long been recognized that it is essential to the public welfare that employees receive their pay when it is due. *In re Trombley (1948) 31 Cal. 2d 801, 809*. *California Labor Code Section 204* also sets forth important public policy objectives underlying every employer’s wage payment timing obligations.
 
@@ -165,17 +162,19 @@ All wages, earned by any person in any employment are due and payable twice duri
 
 Also, per *California Labor Code Section 210(a)* every person who fails to pay the wages of each employee as provided in Sections 204 shall be subject to a civil penalty as follows: (1) For any initial violation, one hundred dollars ($100) for each failure to pay each employee. (2) For each subsequent violation, or any willful or intentional violation, two hundred dollars ($200) for each failure to pay each employee, plus 25 percent of the amount unlawfully withheld.
 
-Crazy Zoo Service paid Bunny Seed’s final paycheck 10 days late. Therefore, Bunny Seed is entitled to $660.00 in late paycheck violations. [($100.00 + ($200.00 x 1) + ($18.00/hr. x 40 hours/week x 2 weeks x 25% x 1)].
+Crazy Zoo Service paid Bunny Seed’s final paycheck 10 days late. Therefore, Bunny Seed is entitled to $[Amount] in late paycheck violations. [($100.00 + ($200.00 x [Number of Pay Periods]) + ($18.00/hr. x 40 hours/week x 2 weeks x 25% x [Number of Pay Periods])].
 
-**Explanation**
+#### **Explanation**
 
 In this specific case, Bunny Seed, who was employed as a Recovery Agent by Crazy Zoo Service, experienced a delay in receiving her final paycheck. According to the client data, Bunny Seed's employment ended on January 18, 2023, but her final paycheck was received 10 days late. This delay constitutes a violation of *California Labor Code Section 204*, which mandates timely payment of wages.
 
 Based on the provided information, Bunny Seed's hourly rate was $18.00, and she typically worked 40 hours per week. Given the delay in payment, Bunny Seed is entitled to compensation for this violation. The calculation for the amount owed is as follows:
+
 1. Initial violation penalty: $100.00
 2. Subsequent violation penalty: $200.00 (assuming one pay period of delay)
 3. Additional penalty: 25% of the amount unlawfully withheld
+
 Calculating the total amount:
 - Initial violation: $100.00
 - Subsequent violation: $200.00 x 1 = $200.00
-- Additional penalty: $18.00/hr x
+- Additional penalty: $18.00/hr x 40 hours/week x 2 weeks x 25% x
