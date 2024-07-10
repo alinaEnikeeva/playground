@@ -94,7 +94,6 @@ Given these circumstances, it is evident that Wiley's termination was a direct r
 
 Therefore, Wiley Coyote has a legitimate claim for whistleblower retaliation under *Labor Code section 1102.5(a)*. Acme Manufacturing Co's actions in terminating Wiley after his reports of theft and insubordination constitute a clear violation of this statute. As a result, Wiley is entitled to seek remedies for the retaliation he faced, including potential civil penalties against his employer.
 
-```markdown
 <ins>Attorney Fees and Costs</ins>
 
 The claims set forth here also give rise to an award of attorneys’ fees and costs for FEHA and wage-and-hour violations. *See Cal. Govt. Code § 12965(b); Cal. Labor Code §§ 218.5, 226(h), 1194.* This firm has already expended numerous hours communicating with Wiley Coyote and evaluating these various causes of action by reviewing documents he has provided and conducting related research and investigation. The time expended and corresponding fees will only increase if this dispute continues into litigation. Similar cases taken to trial have resulted in awards of fees and expenses in six figures. This of course does not include the fees and other expenditures spent in defending the lawsuit.
@@ -114,7 +113,7 @@ As set forth above, Acme Manufacturing Co faces substantial liability for the va
 <ins>Settlement Demand</ins>
 
 Our goal is to arrive at a fair and reasonable resolution to this dispute with as little time, energy and cost expended by the parties as possible. In our experience, a settlement can often be achieved for less than the expected cost of defense. To this end, our client is willing to settle all claims at this time for a total of **$226,680.00**. This demand is made in an effort to resolve the matter efficiently and in good faith. With this letter, I have also enclosed a draft settlement agreement for your consideration. Please note should the matter not settle and proceed to litigation and/or arbitration, any and all pre-litigation demands will be immediately withdrawn as our client pursues all available rights and remedies.
-```This settlement offer will remain open until close of business ten (10) calendar days from the date of this letter. If you do not respond to this letter, we will be forced to proceed accordingly.
+This settlement offer will remain open until close of business ten (10) calendar days from the date of this letter. If you do not respond to this letter, we will be forced to proceed accordingly.
 
 Please contact me to discuss this matter further. My direct dial is (302 306-5750) telephone (direct) and my email address is jhaus@lfecr.com.
 
