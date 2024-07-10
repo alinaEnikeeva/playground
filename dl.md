@@ -96,7 +96,8 @@ Given these facts, Wiley Coyote has established by a preponderance of the eviden
 
 Under *Labor Code section 1102.5*, Acme Manufacturing Co. is liable for a civil penalty not exceeding ten thousand dollars ($10,000) for each violation of this section. Additionally, a section 1102.5(c) violation triggers civil penalties pursuant to PAGA, as outlined in *Cal. Lab. Code § 2699.5*.
 
-In conclusion, Wiley Coyote's termination appears to be a direct result of his whistleblowing activities, which is a violation of *Labor Code section 1102.5*. The employer, Acme Manufacturing Co., should be held accountable for these actions and the associated penalties should be enforced.```markdown
+In conclusion, Wiley Coyote's termination appears to be a direct result of his whistleblowing activities, which is a violation of *Labor Code section 1102.5*. The employer, Acme Manufacturing Co., should be held accountable for these actions and the associated penalties should be enforced.
+
 <ins> **Attorney Fees and Costs** </ins>
 
 The claims set forth here also give rise to an award of attorneys’ fees and costs for FEHA and wage-and-hour violations. See *Cal. Govt. Code § 12965(b); Cal. Labor Code §§ 218.5, 226(h), 1194*. This firm has already expended numerous hours communicating with Wiley Coyote and evaluating these various causes of action by reviewing documents he has provided and conducting related research and investigation. The time expended and corresponding fees will only increase if this dispute continues into litigation. Similar cases taken to trial have resulted in awards of fees and expenses in six figures. This of course does not include the fees and other expenditures spent in defending the lawsuit.
