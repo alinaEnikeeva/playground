@@ -1,8 +1,6 @@
-<div align = "right">
+<div align="right">
 Julia Haus  
-  
-(323) 306-5750 telephone (direct) 
-
+(323) 306-5750 telephone (direct)  
 jhaus@lfecr.com  
 </div>
 
@@ -11,7 +9,7 @@ Burbank, California 91505
 (323) 375-5101 telephone (general) | (323) 306-5571 facsimile  
 www.LawyersForEmployeeAndConsumerRights.com  
 
-<div align = "center">
+<div align="center">
 **Confidential Settlement Communication**  
 **(Cal. Evid. Code § 1152)**  
 </div>
