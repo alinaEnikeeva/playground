@@ -1,6 +1,7 @@
-<div align = "right">
+```markdown
+<div align="right">
 Julia Haus  
-(323) 306-5750  
+(323) 306-5750 telephone (direct)  
 jhaus@lfecr.com  
 </div>
 
@@ -9,15 +10,14 @@ Burbank, California 91505
 (323) 375-5101 telephone (general) | (323) 306-5571 facsimile  
 www.LawyersForEmployeeAndConsumerRights.com  
 
-<div align = "center">
-  
+<div align="center">
 **Confidential Settlement Communication**  
-**Cal. Evid. Code § 1152**  
+**(Cal. Evid. Code § 1152)**  
 </div>
 
 July 05, 2024  
 
-__**VIA FIRST CLASS MAIL AND/OR ELECTRONIC MAIL**__ 
+<u>**VIA FIRST CLASS MAIL AND/OR ELECTRONIC MAIL**</u>  
 
 Crazy Zoo Service  
 Attn: Human Resources/Legal Department  
@@ -43,3 +43,4 @@ Bunny Pigeon Seed retained us to represent her on the following claims against C
 - **Late Paycheck Violations**: Ms. Seed received the final paycheck late, which could constitute a late paycheck violation.
 - **Waiting Time Penalties**: Ms. Seed experienced a delay in receiving the final paycheck, which may entitle her to waiting time penalties.
 - **Rest Break**: Ms. Seed reported not taking rest breaks as it was not part of the employer's practice, which is a violation of rest break laws.
+```
