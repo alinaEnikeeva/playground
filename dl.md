@@ -1,5 +1,6 @@
 <div align = "right">
-Julia Haus  \n
+Julia Haus  
+  
 (323) 306-5750 telephone (direct)  
 jhaus@lfecr.com  
 </div>
